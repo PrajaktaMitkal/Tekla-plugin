@@ -1,0 +1,8 @@
+C:\Program Files\Tekla Structures\2019.1\nt\bin\plugins\TeklaVSDemo1.dll
+C:\TeklaStructuresModels\TeklaVSDemo1\ObjDir\2019\TeklaVSDemo1\TeklaVSDemo1.MainForm.resources
+C:\TeklaStructuresModels\TeklaVSDemo1\ObjDir\2019\TeklaVSDemo1\TeklaVSDemo1.csproj.GenerateResource.cache
+C:\TeklaStructuresModels\TeklaVSDemo1\ObjDir\2019\TeklaVSDemo1\TeklaVSDemo1.csproj.CoreCompileInputs.cache
+C:\TeklaStructuresModels\TeklaVSDemo1\ObjDir\2019\TeklaVSDemo1\TeklaVSDemo1.dll
+C:\TeklaStructuresModels\TeklaVSDemo1\ObjDir\2019\TeklaVSDemo1\TeklaVSDemo1.pdb
+C:\TeklaStructuresModels\TeklaVSDemo1\TeklaVSDemo1\bin\Debug\TeklaVSDemo1.dll
+C:\TeklaStructuresModels\TeklaVSDemo1\TeklaVSDemo1\bin\Debug\TeklaVSDemo1.pdb
